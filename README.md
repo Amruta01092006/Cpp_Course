@@ -1,2 +1,2 @@
 # C++_Course
-My C++ Course Learnings
+This repository consists my C++ Course Learnings
