@@ -1,1 +1,3 @@
-cout<<"The product of a and b is "<<product(a,b)<<endl;
+while(*p!='\0'){
+    //     len++;
+    //     p++;
